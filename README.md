@@ -14,8 +14,6 @@ This is a kind of tool completely written in bash scripting. The main objective 
 
 As this is a beginner level shell script, there might not be advance logic on it but I tried my utmost to finish this as product for myself.  
 
-Eureka! I was able to make it work.
-
 ## Getting Started
 
 Clone the repository and then run it in shell environment
