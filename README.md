@@ -8,7 +8,7 @@
 
 ## About The Project
 
-<!--[Screen Shot](images/screenshot.png)-->
+![Screen Shot](screenshot.png)
 
 This is a kind of tool completely written in bash scripting. The main objective of creating this tool is to learn bash scripting AND on the other side, I used to do CTF challenge and I have to create directories every time when I am about to start CTF box. Therefore, I taught if I can build something that can do all those thing for me, it would be better. 
 
